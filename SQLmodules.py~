@@ -3,8 +3,6 @@
 #   SQLite3 Testing
 #
 #A comment by Jared: Took a quick glance at the work.  looks good.  Maybe we should make a class database and add functions so that: database.close or database.insert_values() will work
-def test_function(nothing):
-    return 1
 
 #connect to database
 def connect(sqlite_file):
